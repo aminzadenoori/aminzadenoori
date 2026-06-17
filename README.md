@@ -5,7 +5,7 @@
 Ph.D. in Computer Engineering. I ship LLM and ML systems end-to-end: RAG pipelines, prompt engineering, GPU-accelerated workflows, deployed web apps. Currently postdoc at **University of Padova** (single-cell genomics + GPUs, with Harvard & NYU). Previously CNR-ISTI and MAIOR SRL.
 
 ### 🚀 Projects
-- **[CudaMon](#)** — R package wrapping NVML for GPU monitoring in scientific workflows
+- **[CudaMon]([#](https://arxiv.org/abs/2605.13928))** — R package wrapping NVML for GPU monitoring in scientific workflows
 - **Talk-to-PDF** — RAG chatbot over technical PDFs, shipped at MAIOR SRL
 - **Auto Prompt Engineering** — LLM prompt optimization for requirements classification (REFSQ 2025)
 - **LLM Indoor Navigation** — multimodal LLM for turn-by-turn indoor guidance (CNR-ISTI)
