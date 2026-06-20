@@ -17,4 +17,4 @@ Python · R · C++ · PyTorch · Hugging Face · LangChain · LlamaIndex · LoRA
 70+ citations · h-index 4 · REFSQ 2025 · MDPI Sensors (Q1) · PC member AIRE & Prompt-SE 2026
 
 ### 📫 Contact
-✉️ amin.zadenoori@gmail.com · [LinkedIn]([#](https://www.linkedin.com/in/mohammad-amin-zadenoori-4b9980ab/) · [Scholar](#)
+✉️ amin.zadenoori@gmail.com · [LinkedIn](https://www.linkedin.com/in/mohammad-amin-zadenoori-4b9980ab/) · [Scholar](#)
