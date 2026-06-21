@@ -9,7 +9,7 @@ Ph.D. in Computer Engineering. I ship LLM and ML systems end-to-end: RAG pipelin
 - **Talk-to-PDF** — RAG chatbot over technical PDFs, shipped at MAIOR SRL
 - **Auto Prompt Engineering** — LLM prompt optimization for requirements classification (REFSQ 2025)
 - **LLM Indoor Navigation** — multimodal LLM for turn-by-turn indoor guidance (CNR-ISTI)
-
+--**QuRE LoRA Lab** — Weak-Word Disambiguation in Industrial Requirements
 ### 🛠️ Stack
 Python · R · C++ · PyTorch · Hugging Face · LangChain · LlamaIndex · LoRA/QLoRA · vLLM · FAISS · CUDA · NVML · Docker · FastAPI · PostgreSQL
 
