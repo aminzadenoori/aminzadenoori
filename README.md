@@ -4,7 +4,7 @@
 
 I build and ship LLM and ML systems end-to-end — from production RAG pipelines and LoRA-fine-tuned small models to GPU-accelerated workflows running on consumer and HPC hardware. Ph.D. in Computer Engineering, 4+ years bridging applied research and production, with industry experience at **MAIOR SRL** (European leader in public-transport software) and open-source work used by teams at **Harvard**, **NYU**, and **CUNY**.
 
-Looking for applied research / research engineer roles on LLMs, agents, or AI for software.
+**Looking for applied research / research engineer roles on LLMs, agents, or AI for software.**
 
 ### 🚀 Shipped Projects
 
