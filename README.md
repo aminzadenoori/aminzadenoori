@@ -28,7 +28,7 @@ I build and ship LLM and ML systems end-to-end — from production RAG pipelines
 
 - Shipped LLM products inside a European transport-software vendor (MAIOR SRL)
 - Open-source GPU tooling adopted by NIH- and CZI-funded genomics consortia (Harvard, NYU, CUNY)
-- 70+ citations · h-index 4 · first author at REFSQ 2025 · Q1 journal publication
+- 70+ citations · h-index 4 · first author at REFSQ, CIBB, QUATIC · Q1 journal publication
 - Program Committee: AIRE 2026 · Prompt-SE 2026
 
 ### 📫 Contact
