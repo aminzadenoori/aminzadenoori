@@ -8,12 +8,14 @@ I build and ship LLM and ML systems end-to-end — from production RAG pipelines
 
 ### 🚀 Shipped Projects
 
+- **[MARQ — Multi-Agent Reasoning for Requirements Quality](https://github.com/aminzadenoori/Agentic-Defect)** — Multi-agent system (Scanner → Investigator → Critic → Synthesizer) that detects ambiguity defects in industrial software requirements from text alone, using five small open LMs (Qwen2.5, Llama 3.2, Gemma 2, Phi-3.5) without fine-tuning. Reformulates QuRE to the harder requirement-level setting (no weak-word hints at test time), benchmarks 4 methods × 5 models × 5 folds, and uses the agents' reasoning traces to audit QuRE's gold labels via a blind human study. Target: ICSE 2027 NIER.
 - **[QuRE LoRA Lab](https://github.com/aminzadenoori/QuRE-LORA)** — LoRA fine-tuning of open small LMs (Qwen2.5, Gemma 2, Llama 3.2) for ambiguous-language detection on 2,187 real industrial software requirements. Gradio app, OOD evaluation, no API dependency.
 - **[CudaMon](https://arxiv.org/abs/2605.13928)** — Open-source R package wrapping NVIDIA NVML for GPU telemetry in long-running scientific workflows. Used in CZI-funded single-cell genomics pipelines (Harvard, NYU, CUNY) on the Bioconductor ecosystem (>10M annual installs).
 - **[Talk-to-PDF](https://github.com/aminzadenoori/Rag-chatbot)** *(MAIOR SRL, 2023–2024)* — Production RAG chatbot over technical PDFs with custom chunking/embedding pipelines. Dockerized, deployed into the company's product stack, used internally by transport-planning engineers.
 - **AI Trip Classification** *(MAIOR SRL, 2022–2024)* — ML pipelines for labeling planned trips from noisy GPS/AVL data; scheduling optimized with Resource-Constrained Shortest Path solvers. Deployed across European transit operators.
 - **[Automatic Prompt Engineering](https://github.com/aminzadenoori/Backtracking-enhanced-Automatic-Prompt-Engineering-APE-for-requirements-classification.)** — Backtracking-enhanced APE for LLM-based classification. CLI + Gradio replication package. REFSQ 2025.
 - **LLM Indoor Navigation** *(CNR-ISTI, 2025)* — Multimodal LLM that interprets indoor maps and gives turn-by-turn guidance.
+
 
 ### 🛠️ Stack
 
